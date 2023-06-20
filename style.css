@@ -1,11 +1,11 @@
-.ukraine-flag {
+.flag {
     position: relative;
     background: rgb(0, 91, 187);
     height: 550px;
     width: 900px;
 }
 
-.ukraine-flag > .yellow-part {
+.flag > .yellow-part {
     position: absolute;
     background: rgb(255, 213, 0);
     height: 300px;
